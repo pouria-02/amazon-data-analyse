@@ -10,3 +10,14 @@ This project analyzes the Amazon sale dataset to uncover insights into product c
 
 ## 📁 Project Structure
 
+
+## 📈 Visualizations
+
+![Top 10 Main Categories](visuals/top_categories.png)
+
+## 🛠️ Requirements
+
+To run this project locally, install the necessary dependencies:
+
+```bash
+pip install -r requirements.txt
